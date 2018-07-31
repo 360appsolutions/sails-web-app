@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 360-concrete-with-login
 
 a [Sails v1](https://sailsjs.com) application
